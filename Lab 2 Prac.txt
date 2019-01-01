@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: Lab2_Practice, Configuration: Debug Any CPU ------
+1>  Lab2_Practice -> c:\users\drashti\documents\visual studio 2015\Projects\Lab2_Practice\Lab2_Practice\bin\Debug\Lab2_Practice.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
